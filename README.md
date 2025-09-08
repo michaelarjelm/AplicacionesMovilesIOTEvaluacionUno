@@ -28,8 +28,8 @@ Navegación a pantalla de bienvenida con mensaje personalizado.
 
 # Screenshots:
 
-![Login](screenshots/login1.png)
-![Login](screenshots/login2.png)
+# Capturas
+![Login 1](screenshots/login1.png)
+![Login 2](screenshots/login2.png)
 ![Bienvenida](screenshots/welcome.png)
-
 
