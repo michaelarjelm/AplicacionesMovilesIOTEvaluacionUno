@@ -1,16 +1,28 @@
-# inacap_evaluacion_flutter
+# Evaluación 1 - Aplicaciones Móviles
+Alumno: Diego Negrete Espinoza
+Sección: TI3V42  
 
-A new Flutter project.
+## Instrucciones para ejecutar
+1. Clonar repositorio:
+   ```bash
+   git clone https://github.com/michaelarjelm/AplicacionesMovilesIOTEvaluacionUno
+   cd AplicacionesMovilesIOTEvaluacionUno
 
-## Getting Started
+Instalar dependencias:
 
-This project is a starting point for a Flutter application.
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+Ejecutar en Chrome:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter run -d chrome
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funcionalidades
+
+Validación de correo (debe contener @).
+
+Validación de contraseña (mínimo 6 caracteres).
+
+Mensajes de error en caso de datos inválidos.
+
+Navegación a pantalla de bienvenida con mensaje personalizado.
+
