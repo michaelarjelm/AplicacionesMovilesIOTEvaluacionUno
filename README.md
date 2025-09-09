@@ -148,7 +148,7 @@ Resultado: Mensajes de error mostrados
 ## Información Académica
 
 - **Institución**: INACAP
-- **Carrera**: Ingeniería Informática
+- **Carrera**: Analista programador
 - **Módulo**: Aplicaciones Móviles para IOT
 - **Evaluación**: Sumativa N°1 (20% de ponderación)
 - **Área**: Tecnologías de Información y Ciberseguridad
